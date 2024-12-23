@@ -1,0 +1,6 @@
+[
+  {
+    "name": "sample-app",
+    "imageUri": "468381101993.dkr.ecr.eu-central-1.amazonaws.com/nginx:latest"
+  }
+]
